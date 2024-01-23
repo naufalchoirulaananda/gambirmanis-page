@@ -22,7 +22,7 @@ const Footer = () => {
               EMAIL
             </Link>
             <Link className="hover:text-neutral-950" href={"/"}>
-              ORGNISASI
+              ORGANISASI
             </Link>
           </div>
         </div>
