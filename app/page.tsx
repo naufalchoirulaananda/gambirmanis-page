@@ -5,7 +5,7 @@ export default function Home() {
     <>
       <HeroSection />
       <div className="container mx-auto flex flex-col justify-center px-0 sm:px-0 md:px-[100px] h-auto">
-        <p className="text-neutral-950 text-4xl mt-10">SELAYANG PANDANGG</p>
+        <p className="text-neutral-950 text-4xl mt-10">SELAYANG PANDANG</p>
         <p className="text-[#8C8C8C] text-sm mt-7 text-justify uppercase leading-loose">
           Desa Gambirmanis, terletak di Kabupaten Wonogiri, Provinsi Jawa
           Tengah, menjadi destinasi yang menarik dengan keunikan bentang
